@@ -26,7 +26,7 @@ header img{
     transition: display all;
 }
 nav {
-    background-color: #f2f2f7;
+    background-color: #0055a5;
     padding: 10px;
     margin: 20px 0;
 }
@@ -61,7 +61,7 @@ section{
 }
 article{
     flex: 2;
-    background-color: rgb(245, 244, 247);
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px #022442;
