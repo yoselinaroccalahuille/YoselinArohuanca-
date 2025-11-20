@@ -20,6 +20,7 @@ header{
     background-color: white;
 }
 header img{
+
     max-width: 150px;
     max-height: 150px;
     margin-bottom: 10px;
@@ -67,9 +68,22 @@ article{
     box-shadow: 0 2px 5px #022442;
 }
 article img{
-    width: 300px;
+    width: 600px;
+}
+article ul, ol, dl{
+    padding: 10px;
+    margin: 18px;
+}
+article table{
+    background-color: rgb(248, 238, 250);
+    border: 2px solid;
+}
+article table th,td{
+    border: 1px solid;
+
 }
 aside{
+    justify-content: center;
     flex: 1;
     background-color: rgb(247, 238, 255);
     padding: 15px;
@@ -83,4 +97,12 @@ footer{
     color: white;
     border-radius: 8px;
     margin-top: 20px;
+}
+footer a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    flex: 2;
+
 }
