@@ -2,7 +2,7 @@ console.log("Hola Mundo");
 alert("Hola Mundo, esto es un alert") 
 
 function triste(){
-    document.getElementById('carita').src='';
+    document.getElementById('carita').src='https://imgs.search.brave.com/qWa_MqQY2z_YE4SfMovZa7ScnO2gBnn2IxqhcgeVxGk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Smh1dnNEMEl4RFlB/QUFBTS90b2t5b2pu/cy1zdGl0Y2guZ2lm.jpeg';
     alert("Po que ta triste mano");
 }
 function feliz(){

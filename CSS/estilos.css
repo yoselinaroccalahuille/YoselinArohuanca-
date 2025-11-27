@@ -113,3 +113,26 @@ footer a{
 Harina{ 
     color: #301ce4;
 }
+
+{function triste(){
+    document.getElementById('carita').src='https://imgs.search.brave.com/qWa_MqQY2z_YE4SfMovZa7ScnO2gBnn2IxqhcgeVxGk/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Smh1dnNEMEl4RFlB/QUFBTS90b2t5b2pu/cy1zdGl0Y2guZ2lm.jpeg';
+    alert("Po que ta triste mano");
+}
+function feliz(){
+    document.getElementById('carita').src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVMGMgNpr3NQCVYE9A7hHe3nVs59FAgTOdw&s';
+}
+function cambiarColor(){
+    document.getElementById('menu').style.color='#3ddd9bff';
+
+}
+function cambiarLogo(){
+    document.getElementById('logo').src='images/logo2.jpg';
+}
+function cambiarFondo(){
+     document.getElementById('menu').style.background='#42b6daff';
+}
+function cambiodeTexto(){
+    document.getElementById('Subtitulo').textContent="YA LE SE AL JS";
+}
+function fondoAside(){
+    document.getElementById('aside').style.background='#c91aacff';}
