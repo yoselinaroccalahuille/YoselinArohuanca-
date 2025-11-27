@@ -1,3 +1,3 @@
 function triste(){
-    document.getElemetById
+    document.getElemetById('carita').src='images/sad.png.jpg';
 }
