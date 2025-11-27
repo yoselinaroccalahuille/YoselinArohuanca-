@@ -7,8 +7,11 @@ function feliz(){
     document.getElemetById('carita').scr='images/happy.png.jpg'
 }
 function cambiarColor(){
-    document.getElemetById('menu').style.color="violet";
+    document.getElemetById('menu').style.color="#ac58d3ff";
 
 }function cambiarLogo{
     document.getElemetById('logo').scr='images/logo2.jpg';
+}
+function cambiarFondo(){
+     document.getElemetById('menu').style.background='#2ddd3c';
 }
