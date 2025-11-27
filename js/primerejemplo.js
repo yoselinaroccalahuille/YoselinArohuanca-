@@ -4,7 +4,7 @@ function triste(){
 function feliz(){
     document.getElemetById('carita').src='images/happy.png.jpg'
 }
-function cambiarColorFondo(){
+function cambiarColor(){
     document.getElemetById('menu').style.color="violet";
-    
+
 }
