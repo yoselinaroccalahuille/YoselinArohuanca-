@@ -1,3 +1,5 @@
+console.log("Hola Mundo");
+                 alert("Hola Mmundo, esto es un alert")
 function triste(){
     document.getElemetById('carita').scr='images/sad.png.jpg';
 }
