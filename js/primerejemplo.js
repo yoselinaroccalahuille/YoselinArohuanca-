@@ -15,3 +15,6 @@ function cambiarColor(){
 function cambiarFondo(){
      document.getElemetById('menu').style.background='#2ddd3c';
 }
+function cambiarTexto(){
+    documento.getElemetById('')
+}
